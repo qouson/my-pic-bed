@@ -1,2 +1,2 @@
-# myPic
-my-Pic-Bed
+# my-pic-bed
+my-pic-bed
